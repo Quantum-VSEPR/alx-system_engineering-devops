@@ -1,1 +1,1 @@
-list of long format directory
+list current directory in a long formtsssss
