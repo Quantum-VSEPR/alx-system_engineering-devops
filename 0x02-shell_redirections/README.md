@@ -1,2 +1,3 @@
-1 shell input out put redirection
-2 Confused smiley
+0 shell input out put redirection
+1 Confused smiley
+2 Display files
